@@ -11576,3 +11576,7 @@ footer.footer .social-link:hover {
 .btn-me {
   background-color:#21868a ;
 }
+
+.brd {
+  border-radius: 10px;
+}
